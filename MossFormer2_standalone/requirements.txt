@@ -1,0 +1,5 @@
+numpy
+torch
+torchaudio
+huggingface_hub
+rotary_embedding_torch

@@ -1,7 +1,7 @@
 # MossFormer2: Combining Transformer and RNN-Free Recurrent Network for Enhanced Time-Domain Monaural Speech Separation
 
 Please move to [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) for our most latest developments for speech front-end processing platform!!
-
+--
 This repository provides the processed samples and information for **MossFormer2** monaural speech separation model. MossFormer2 is an extended model from <a href="https://github.com/alibabasglab/MossFormer">MossFormer</a>. It can be retrained and evaluated based on <a href="https://modelscope.cn/models/damo/speech_mossformer2_separation_temporal_8k/summary">ModelScope open source platform</a>. The users can either go to the <a href="https://modelscope.cn/models/damo/speech_mossformer2_separation_temporal_8k/summary">ModelScope website</a> or follow the steps given below to downloand and install the full pytorch version of MossFormer2 program. MossFormer2 was proposed in the paper <a href="https://arxiv.org/abs/2312.11825">MossFormer2: Combining Transformer and RNN-Free Recurrent Network for Enhanced Time-Domain Monaural Speech Separation</a>.  
 
 ## Model Description
